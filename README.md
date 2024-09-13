@@ -5,5 +5,6 @@
 
 - 📒 Estou estudando atulmente - Senai - Desenvolvimento de Sistemas
 - ✍ Já utilizei python, C++ (Arduino), e Portugol durante o curso
-<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" alt="Rafa-Python" height="40" width="70" src="https://cloud.google.com/static/cpp/images/cpp-logo.png?hl=pt-br">
+  
+<img align="center" alt="Rafa-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/42/Arduino_Uno_logo.png">
 - 📫 e-mail de contato: samuelmassmada@gmail.com 
