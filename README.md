@@ -12,6 +12,6 @@
 <div>
 <img align="center" alt="Rafa-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/42/Arduino_Uno_logo.png">  
 </div> 
-- 📫 e-mail de contato: samuelmassmada@gmail.com <a href="mailto:samuelmassmada@gmail.com" target="_blank">
+- 📫 e-mail de contato: samuelmassmada@gmail.com <a href="mailto:samuel.massmada@gmail.com" target="_blank">
     <img align="center" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
