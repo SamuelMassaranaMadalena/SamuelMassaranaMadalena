@@ -7,7 +7,7 @@
 ##
   
 <img align="right" heigh="100px" width="120px" src="https://github.com/SamuelMassaranaMadalena/SamuelMassaranaMadalena/blob/main/img%20e%20gifs%20usar/download%20(2).gif?raw=true">  
-- 📒 Estou estudando atulmente - Senai - Desenvolvimento de Sistemas
+- 📒 Estou estudando atulmente - Senai - Desenvolvimento de Sistemas<br>
 - ✍ Já utilizei python, C++ (Arduino), e Portugol durante o curso
 <div>
 <img align="center" alt="Rafa-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
