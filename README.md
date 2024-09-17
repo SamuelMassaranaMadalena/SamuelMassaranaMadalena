@@ -10,8 +10,12 @@
 - 📒 Estou estudando atulmente - Senai - Desenvolvimento de Sistemas<br>
 - ✍ Já utilizei python, C++ (Arduino), e Portugol durante o curso
 <div>
-<img align="center" alt="Rafa-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/42/Arduino_Uno_logo.png">  
+<a href="https://github.com/SamuelMassaranaMadalena/pythonlogicadeprogrmacaomateria">
+  <img align="center" alt="Rafa-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</a>
+<a href="https://github.com/SamuelMassaranaMadalena/Recriacaodobrinquedogenius">
+  <img align="center" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/42/Arduino_Uno_logo.png">  
+</a>
 </div> 
 <br>
 - 📫 e-mail de contato: samuelmassmada@gmail.com <a align="center" href="mailto:samuel.massmada@gmail.com" target="_blank">                                                                  
