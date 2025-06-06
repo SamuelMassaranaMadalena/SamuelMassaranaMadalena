@@ -8,7 +8,7 @@
   
 
 - 📒 Estou estudando atulmente - Senai - Desenvolvimento de Sistemas<br>
-- ✍ Já utilizei Python, C++ (Arduino), HTML, CSS, PHP e JavaScript durante o curso
+- ✍ Já utilizei Python, C++ (Arduino), HTML, CSS, PHP, JavaScript e Kotlin durante o curso
 <div>
 <a href="https://github.com/SamuelMassaranaMadalena/pythonlogicadeprogrmacaomateria">
   <img align="center" alt="" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -22,12 +22,15 @@
 <a href="https://github.com/SamuelMassaranaMadalena/DS-Web/tree/main/HTML%20e%20CSS">
   <img align="center" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg">
 </a>
-<a>
+<a href="https://github.com/SamuelMassaranaMadalena/DS-Web/tree/main/JavaScript">
    <img align="center" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
 </a>
 <a href="https://github.com/SamuelMassaranaMadalena/DS-Web/tree/main/PHP/Aulas">
   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
 </a>
+
+<a href="https://github.com/SamuelMassaranaMadalena/DS-Web/tree/main/0-DesenvolvimentoMobile">
+  <img align="center" height="80" width ="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain-wordmark.svg" />
 </div>
 
 <br>
