@@ -34,9 +34,9 @@
 </div>
 
 <br>
-<a align="center" href="mailto:samuel.massmada@gmail.com" target="_blank">                                                                  
+<a align="center" href="mailto:contato.samuelmassaranamadalena@gmail.com" target="_blank">                                                                  
   <img align="right" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </a>
-- 📫 e-mail de contato: samuelmassmada@gmail.com 
+- 📫 e-mail de contato: contato.samuelmassaranamadalena@gmail.com
 
 ##
