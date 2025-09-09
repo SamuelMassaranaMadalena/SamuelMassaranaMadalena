@@ -8,7 +8,6 @@
   
 
 - 📒 Estou estudando atulmente - Senai - Desenvolvimento de Sistemas<br>
-- ✍ Já utilizei Python, C++ (Arduino), HTML, CSS, PHP, JavaScript e Kotlin durante o curso
 <div>
 <a href="https://github.com/SamuelMassaranaMadalena/pythonlogicadeprogrmacaomateria">
   <img align="center" alt="" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
