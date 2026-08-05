@@ -3,7 +3,6 @@
 ##
   
 
-- 📒 Estou estudando atulmente na FATEC - Gestão da Tecnologia da Informação - 2° semestre<br>
 <div>
 <a href="https://github.com/SamuelMassaranaMadalena/pythonlogicadeprogrmacaomateria">
   <img align="center" alt="" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -32,6 +31,7 @@
 <a align="center" href="mailto:contato.samuelmassaranamadalena@gmail.com" target="_blank">                                                                  
   <img align="right" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </a>
+- 📒 Estou estudando atulmente na FATEC - Gestão da Tecnologia da Informação - 2° semestre<br>
 - 📫 e-mail de contato: contato.samuelmassaranamadalena@gmail.com
 
 ##
