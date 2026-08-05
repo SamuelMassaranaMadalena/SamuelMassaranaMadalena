@@ -1,13 +1,9 @@
 ## Olá! Como vai? 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=SamuelMassaranaMadalena&show_icons=true&theme=highcontrast" >
-  <img heigh="300cm" width="315cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelMassaranaMadalena&layout=donut">
-</div>
   
 ##
   
 
-- 📒 Estou estudando atulmente - Senai - Desenvolvimento de Sistemas<br>
+- 📒 Estou estudando atulmente na FATEC - Gestão da Tecnologia da Informação - 2° semestre<br>
 <div>
 <a href="https://github.com/SamuelMassaranaMadalena/pythonlogicadeprogrmacaomateria">
   <img align="center" alt="" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
